@@ -10,7 +10,7 @@
 
 ### 키워드
 
-- [Bounds]()
+- [Bounds](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Bounds.md)
 - Frame
 
 ### 질문
