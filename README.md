@@ -11,7 +11,7 @@
 ### 키워드
 
 - [Bounds](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Bounds.md)
-- Frame
+- [Frame](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Frame.md)
 
 ### 질문
 
