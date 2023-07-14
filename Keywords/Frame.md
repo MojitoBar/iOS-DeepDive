@@ -1,7 +1,7 @@
 # Frame
 
 `frame`은 UIView의 View가 화면에서 차지하는 공간을 말하며, 좌표 시스템을 기반으로 합니다.<br/>
-UIView의 `frame`은 [CGRect]() 타입으로, 사각형의 영역을 정의합니다.<br/>
+UIView의 `frame`은 [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md) 타입으로, 사각형의 영역을 정의합니다.<br/>
 이는 `origin`과 `size`로 구성됩니다.
 
 예를 들어 다음과 같이 `frame`을 설정할 수 있습니다.
@@ -17,6 +17,6 @@ view.frame = CGRect(x: 0, y: 0, width: 100, height: 100)
 
 # 연관 키워드
 
-[UIView]()<br/>
-[CGRect]()<br/>
+[UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)<br/>
+[CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)<br/>
 [CGSize]()<br/>
