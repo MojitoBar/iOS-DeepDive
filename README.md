@@ -13,6 +13,7 @@
 - [Bounds](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Bounds.md)
 - [Frame](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Frame.md)
 - [UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)
+- [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)
 
 ### 질문
 
