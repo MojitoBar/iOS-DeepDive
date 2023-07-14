@@ -19,5 +19,5 @@ view.bounds = CGRect(x: 10, y: 10, width: 100, height: 100)
 # 연관 키워드
 
 [UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)<br/>
-[CGRect]()<br/>
+[CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)<br/>
 [CGSize]()<br/>
