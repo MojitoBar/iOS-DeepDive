@@ -1,7 +1,7 @@
 # Bounds
 
 `bounds`는 뷰의 내부 좌표계에서 뷰 자체의 위치와 크기를 나타냅니다.<br/>
-UIView의 `frame`은 [CGRect]() 타입으로, 사각형의 영역을 정의합니다.<br/>
+[UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)의 `frame`은 [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Frame.md) 타입으로, 사각형의 영역을 정의합니다.<br/>
 이는 `origin`과 `size`로 구성됩니다.
 
 ```swift
