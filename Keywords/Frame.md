@@ -20,3 +20,6 @@ view.frame = CGRect(x: 0, y: 0, width: 100, height: 100)
 [UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)<br/>
 [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)<br/>
 [CGSize]()<br/>
+
+# 공식 문서
+https://developer.apple.com/documentation/uikit/uiview/1622621-frame
