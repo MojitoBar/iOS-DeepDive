@@ -17,4 +17,4 @@
 
 ### 질문
 
-- [Bounds](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Bounds.md) 와 [Frame](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Frame.md) 의 차이점을 설명하시오.
+- [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/Bounds&Frame.md)
