@@ -14,6 +14,7 @@
 - [Frame](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Frame.md)
 - [UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)
 - [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)
+- [SwiftGM](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/SwiftGM.md)
 
 ### 질문
 
