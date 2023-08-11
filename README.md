@@ -15,6 +15,7 @@
 - [UIView](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/UIView.md)
 - [CGRect](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/CGRect.md)
 - [SwiftGM](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/SwiftGM.md)
+- [Smalltalk](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Smalltalk.md)
 
 ### 질문
 
