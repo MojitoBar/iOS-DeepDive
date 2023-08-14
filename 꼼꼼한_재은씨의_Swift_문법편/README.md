@@ -4,7 +4,7 @@
 
 ### [1.1 스위프트 언어의 탄생과 배경](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/1.1.md)
 
-### 1.2 스위프트 언어의 특징
+### [1.2 스위프트 언어의 특징](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/1.2.md)
 
 1.2.1 스위프트 언어에서 차용하고 있는 주요 기능들
 
