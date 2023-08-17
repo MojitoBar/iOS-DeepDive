@@ -32,7 +32,7 @@ GCC는 그 자체로 매우 강력한 도구이며, 많은 개발 환경에서 �
 
 ## 😀 Jito
 
-LLVM과 마찬가지로 널리 쓰이는 컴파일러이다.
+[LLVM](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/LLVM.md)과 마찬가지로 널리 쓰이는 컴파일러이다.
 
 LLVM과 비교했을 때 벤치마킹을 보면 크게 성능 차이가 없는 것 같다...
 
