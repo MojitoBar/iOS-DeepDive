@@ -8,6 +8,9 @@
 다음 질문에 대해 친절하고 구체적으로 답변해주세요.
 ```
 
+### 책 정리
+- [꼼꼼한 재은씨의 Swift 문법편](https://github.com/MojitoBar/iOS-DeepDive/tree/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8)
+
 ### 키워드
 
 - [Bounds](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Keywords/Bounds.md)
