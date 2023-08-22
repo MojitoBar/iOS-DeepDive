@@ -18,7 +18,7 @@
 
 ### [3.1 스위프트 기초 문법](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/3.1.md)
 
-### 3.2 변수와 상수
+### [3.2 변수와 상수](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/3.2.md)
 
 3.2.1 변수와 상수를 정의하는 방법
 
