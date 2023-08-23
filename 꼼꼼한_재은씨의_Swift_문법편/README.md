@@ -22,7 +22,7 @@
 
 [3.2.1 변수와 상수를 정의하는 방법](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/3.2.1.md)
 
-3.2.2 변수와 상수의 이름 정의하기
+[3.2.2 변수와 상수의 이름 정의하기](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/3.2.2.md)
 
 ### 3.3 자료형
 
