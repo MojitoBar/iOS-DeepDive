@@ -74,4 +74,32 @@
 
 [4.3.3 구문 레이블과 break, continue](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/4.3.3.md)
 
-# Chapter 05 집단 자료형: 연관된 데이터를 손쉽게 다루기
+# [Chapter 05 집단 자료형: 연관된 데이터를 손쉽게 다루기](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.md)
+
+### [5.1 배열](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.1.md)
+
+[5.1.1 배열 순회 탐색](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.1.1.md)
+
+[5.1.2 배열의 동적 선언과 초기화](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.1.2.md)
+
+[5.1.3 배열 아이템 동적 추가](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.1.3.md)
+
+[5.1.4 범위 연산자를 이용한 인덱스 참조](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.1.4.md)
+
+### [5.2 집합](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.2.md)
+
+[5.2.1 집합의 정의](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.2.1.md)
+
+[5.2.2 집합 순회 탐색](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.2.2.md)
+
+[5.2.3 집합의 동적 추가와 삭제](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.2.3.md)
+
+[5.4 집합 연산](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.2.4.md)
+
+### [5.3 튜플](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.3.md)
+
+### [5.4 딕셔너리](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.4.md)
+
+[5.4.1 딕셔너리의 선언과 초기화](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.4.1.md)
+
+[5.4.2 딕셔너리의 동적으로 아이템 추가하기](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/5.4.2.md)
