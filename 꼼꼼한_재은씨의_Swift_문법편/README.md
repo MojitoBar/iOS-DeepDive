@@ -252,7 +252,7 @@
 
 ### [10.4 프로토콜의 활용](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/10.4.md)
 
-[10.4.1 확장 구문과 프로토콜](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/10.4.1.md)
+[10.4.1 확장 구문과 프로토콜](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/10.4.md)
 
 [10.4.2 프로토콜의 상속](https://github.com/MojitoBar/iOS-DeepDive/blob/main/%EA%BC%BC%EA%BC%BC%ED%95%9C_%EC%9E%AC%EC%9D%80%EC%94%A8%EC%9D%98_Swift_%EB%AC%B8%EB%B2%95%ED%8E%B8/10.4.2.md)
 
