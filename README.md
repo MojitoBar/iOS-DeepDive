@@ -28,3 +28,5 @@
 
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/Bounds&Frame.md)
 - [딕셔너리에서 값을 찾는것이 배열에 비해서 왜 빠를까요?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/Dictionary%26Array.md)
+- [에뮬레이터 vs 시뮬레이터]()
+- [집합에 만개의 랜덤한 숫자를 넣는것과, 배열에 만개의 랜덤한 숫자를 넣는것 중 어떤게 더 빠를까요?]()
