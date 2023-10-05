@@ -9,7 +9,7 @@
 [non-escaping 깃허브 proposal 링크](https://github.com/apple/swift-evolution/blob/main/proposals/0103-make-noescape-default.md)
 
 1. **기능적 알고리즘의 이점**: 순수 스위프트로 작성된 대부분의 함수형 알고리즘은 자연스럽게 non-escaping입니다. 이로 인해 이러한 알고리즘을 작성할 때 필요한 보일러플레이트 코드가 줄어듭니다.
-2. **컴파일러의 질의 향상**: 개발자가 클로저의 escaping에 대해 신경 쓰지 않고 클로저를 escaping 시도할 때, 컴파일러는 이를 감지하고 **`@escaping`**을 추가하는 것을 제안하는 fixit을 제공할 수 있습니다.
+2. **컴파일러의 질의 향상**: 개발자가 클로저의 escaping에 대해 신경 쓰지 않고 클로저를 escaping 시도할 때, 컴파일러는 이를 감지하고 **`@escaping`** 을 추가하는 것을 제안하는 fixit을 제공할 수 있습니다.
 3. **언어의 선호도 변경**: 최근의 변경사항(예: inout 매개변수에 대한 escaping 클로저의 사용 금지)은 언어가 non-escaping 클로저를 선호하도록 밀어주고 있습니다. 또한, non-escaping 클로저는 참조 순환 문제의 한 분류를 제거함으로써 항상 선호되어 왔습니다.
 4. **@autoclosure(escaping)의 표준화**: "@autoclosure(escaping)"은 "@autoclosure @escaping”으로 더 간단하고 표준화된 형식으로 변환될 수 있습니다.
 
