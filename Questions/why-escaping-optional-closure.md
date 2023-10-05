@@ -19,6 +19,6 @@
 
 [[SR-2444] @escaping failing on optional blocks · Issue #45049 · apple/swift](https://github.com/apple/swift/issues/45049#comment-17861)
 
-클로저의 기본값이 non-escaping이 되는 경우는 **“클로저 타입이 매개변수로 전달될 때”**이다.
+클로저의 기본값이 non-escaping이 되는 경우는 **“클로저 타입이 매개변수로 전달될 때”** 이다.
 
 하지만 옵셔널 타입 클로저 매개변수는 말 그대로 클로저 타입이 아니라 옵셔널 타입이기 때문에 위 법칙이 적용되지 않는다. 따라서 escaping이 기본으로 동작하게 되는 것이다.
