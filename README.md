@@ -21,7 +21,7 @@
 - [자바 interface와 swift의 프로토콜의 차이점?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/interface-protocol.md)
 - [weak, unowned의 차이점은 무엇일까?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/weak-unowned.md)
 - [static만 있을경우 왜 struct나 class대신에 enum을 써야하는가?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/why-enum.md)
-- [protocol, extension에서 stored property 사용하는 방법]()
+- [protocol, extension에서 stored property 사용하는 방법](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/protocol-extension-stored-property.md)
 - [protocol에선 왜 private를 못 쓸까?]()
 - [struct에서는 왜 mutating 키워드를 붙여줄까?]()
 - [swift에서는 꼬리재귀를 사용하는데 꼬리재귀가 무엇이고 왜 채택했을까?]()
