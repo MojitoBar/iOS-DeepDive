@@ -24,7 +24,7 @@
 - [protocol, extension에서 stored property 사용하는 방법](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/protocol-extension-stored-property.md)
 - [protocol에선 왜 private를 못 쓸까?]()
 - [struct에서는 왜 mutating 키워드를 붙여줄까?]()
-- [swift에서는 꼬리재귀를 사용하는데 꼬리재귀가 무엇이고 왜 채택했을까?]()
+- [swift에서는 꼬리재귀를 사용하는데 꼬리재귀가 무엇이고 왜 채택했을까?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/tail-call-swift.md)
 - [mvc, mvvm, vip, mvi]()
 
 ### [키워드 정리](https://github.com/MojitoBar/iOS-DeepDive/tree/main/Keywords)
