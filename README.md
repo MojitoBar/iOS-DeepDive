@@ -25,11 +25,10 @@
 - [protocol에선 왜 private를 못 쓸까?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/protocol-private.md)
 - [struct에서는 왜 mutating 키워드를 붙여줄까?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/mutating-struct.md)
 - [swift에서는 꼬리재귀를 사용하는데 꼬리재귀가 무엇이고 왜 채택했을까?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/tail-call-swift.md)
-- [merge, rebase, squash 차이]()
-- [submodule이란?]()
-- [reflog란?]()
-- [Swift Style Guide 번역본]()
-- [UIScene, UIWindowScene, UIWindow]()
-- 
+- [merge, rebase, squash 차이](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/merge-rebase-squash.md)
+- [submodule이란?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/submodule.md)
+- [reflog란?](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/reflog.md)
+- [init(frame:), init(coder)에 대하여](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/init-frame-coder.md)
+- [UIScene, UIWindowScene, UIWindow](https://github.com/MojitoBar/iOS-DeepDive/blob/main/Questions/uiscene-uiwindowscene-uiwindow.md)
 
 ### [키워드 정리](https://github.com/MojitoBar/iOS-DeepDive/tree/main/Keywords)
