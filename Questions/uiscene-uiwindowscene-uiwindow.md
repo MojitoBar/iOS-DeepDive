@@ -18,18 +18,18 @@ func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options conn
 }
 ```
 
-1. **UIScene**:
+1. **UIScene**
    - 이것은 앱의 사용자 인터페이스의 한 인스턴스나 "상태"를 추상적으로 나타내는 기본 클래스입니다.
    - 앱의 UI와 그에 관련된 이벤트 및 생명 주기를 관리합니다.
-2. **UIWindowScene**:
-   - **`UIWindowScene`**은 **`UIScene`**의 구체적인 하위 클래스입니다.
+2. **UIWindowScene**
+   - **`UIWindowScene`** 은 **`UIScene`** 의 구체적인 하위 클래스입니다.
    - 특히 앱의 그래픽 사용자 인터페이스와 관련된 씬을 나타냅니다.
    - 화면의 물리적 특성, 해상도, 화면 크기 등과 관련된 설정 및 정보를 제공합니다.
-   - 하나의 **`UIWindowScene`**은 하나 이상의 **`UIWindow`** 객체를 관리할 수 있습니다.
-3. **UIWindow**:
-   - **`UIWindow`**는 **`UIWindowScene`**에 연결된 실제 그래픽 객체입니다.
+   - 하나의 **`UIWindowScene`** 은 하나 이상의 **`UIWindow`** 객체를 관리할 수 있습니다.
+3. **UIWindow**
+   - **`UIWindow`** 는 **`UIWindowScene`** 에 연결된 실제 그래픽 객체입니다.
    - 앱의 뷰 계층을 호스팅하며 화면에 직접적으로 그려지는 유일한 객체입니다.
-   - **`UIWindow`**는 특정 **`UIWindowScene`**에 연결되어야 하며, 이 연결을 통해 화면에 렌더링됩니다.
+   - **`UIWindow`** 는 특정 **`UIWindowScene`** 에 연결되어야 하며, 이 연결을 통해 화면에 렌더링됩니다.
 
 iOS 13 이전에는 Window에서 앱의 상태까지 같이 관리했는데, 13 이후에 아이패드에서 멀티 태스킹을 지원하게 되면서 앱의 상태를 관리하는 클래스(UIScene)을 따로 분리함. 왜냐하면 하나의 앱에서 여러개의 앱 상태를 지원해야하기 했기 때문에.
 
