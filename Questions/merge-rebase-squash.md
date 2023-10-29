@@ -6,15 +6,17 @@
 
 - **merge**: 두 개의 branch를 합치는 과정입니다. 만약 'feature' branch에서 작업을 완료하고 이를 'main' branch에 합치려면 merge를 사용하게 됩니다.
   merge를 할 때, 'feature'와 'main' branch의 변경 사항들을 합치고, 그 결과를 새로운 커밋으로 저장합니다.
-  ![스크린샷 2023-10-12 오후 3.09.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/902d4b31-feff-445e-949c-2f6eb85bffad/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-10-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.09.58.png)
-
-      ```swift
-      // 현재 브랜치에 {test} 브랜치를 합치겠다는 뜻
-      git merge test
-      ```
+  
+  <img width="500" alt="스크린샷 2023-10-12 오후 3 39 55" src="https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/80e47d82-deb2-44c2-8c55-f0f1b8647864">
+      
+  ```swift
+  // 현재 브랜치에 {test} 브랜치를 합치겠다는 뜻
+  git merge test
+  ```
 
 - **rebase**: 한 branch의 변경 사항을 다른 branch 위에 "재배치"하는 과정입니다. 예를 들어 'feature' branch에서 작업하던 중 'main' branch에 새로운 커밋이 추가됐다면, 'feature' branch를 rebase하여 'main'의 최신 커밋 위에 'feature'의 커밋을 다시 적용할 수 있습니다. 이는 커밋 히스토리를 깔끔하게 한 줄로 유지하는 데 도움이 됩니다.
-  ![스크린샷 2023-10-12 오후 3.39.55.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/9e1a5e10-847e-4dbd-b1b1-8fa37a9c5f37/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-10-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.39.55.png)
+
+  <img width="500" alt="스크린샷 2023-10-12 오후 3 09 58" src="https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/4db0be7a-ec3f-4ecb-acff-89b652d3330f">
 
   ```swift
   // 현재 브랜치의 변경 사항을 {main} 브랜치 밑으로 합치겠다는 뜻
@@ -34,17 +36,16 @@
   git checkout main
   git merge --squash test
 
-      // 합친 커밋이 반영될 메시지를 작성
-      git commit -m "commit 0~3"
+  // 합친 커밋이 반영될 메시지를 작성
+  git commit -m "commit 0~3"
 
-      // rebase & squash 예제
-      // HEAD 기준으로 최근 커밋 3개를 rebase 하겠다는 뜻
-      git rebase -i HEAD~3
-      ```
+  // rebase & squash 예제
+  // HEAD 기준으로 최근 커밋 3개를 rebase 하겠다는 뜻
+  git rebase -i HEAD~3
+  ```
+<img width="400" alt="Untitled" src="https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/3f922c94-8619-45b3-b208-f068b8dcd540">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/41ff0c28-5ce7-4bfd-b07a-31d8c94ed3c9/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/c778db83-60bb-4bfc-8af6-b6a1f6c85ebf/Untitled.png)
+<img width="400" alt="Untitled" src="https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/53df0e6b-7616-4f6d-bc13-e541ef6100fa">
 
 왼쪽처럼 창이 뜨면 앞에 ‘pick’ 부분을 원하는 명령어로 변경한 후 저장하면 됩니다.
 
