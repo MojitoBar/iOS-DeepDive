@@ -35,7 +35,7 @@ git submodule update
 git submodule update --remote
 ```
 
-## \***\*Git Submodule 특징\*\***
+## Git Submodule 특징
 
 - **독립적인 저장소**: 하위 모듈은 슈퍼 프로젝트와 독립된 저장소로 작동한다. 따라서 하위 모듈에서 변경사항을 커밋하면 해당 변경사항은 슈퍼 프로젝트에 바로 반영되지 않는다.
 - **하위 모듈의 특정 커밋 참조**: 슈퍼 프로젝트는 하위 모듈의 특정 커밋을 참조한다. 따라서 하위 모듈을 업데이트하면 슈퍼 프로젝트에서 해당 하위 모듈의 참조를 업데이트해야 한다.
@@ -45,7 +45,7 @@ git submodule update --remote
 
 따라서 하위 프로젝트에 변경사항이 생겼다면 상위 프로젝트에서 업데이트를 꼭 해주어야한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/88c5ebde-15bd-4889-bb01-9e885539c542/Untitled.png)
+![Untitled](https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/e4990960-4f3c-4d56-8a7d-c8df56b5f45a)
 
 그리고 서브모듈을 추가하게되면 .gitmodules라는 파일이 생기는데 여기에 서브모듈의 정보가 들어있다.
 
