@@ -15,9 +15,9 @@
    [hash] HEAD@{n}: [action]: [description]
    ```
 
-   ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/35feff1a-b00e-45d2-8e8b-157f74dde233/581341fe-6315-40cc-aa5b-bfbd7b932686/Untitled.png)
+   ![Untitled](https://github.com/MojitoBar/iOS-DeepDive/assets/16567811/86e9dd9c-2c62-4edb-90dd-fdfe0358fbf2)
 
-2. 특정 항목으로 돌아가기: `git reflog`의 출력에서 원하는 항목의 해시 또는 `HEAD@{n}` 참조를 사용하여 `git reset` 또는 `git checkout` 명령을 실행해 해당 상태로 되돌릴 수 있습니다.
+3. 특정 항목으로 돌아가기: `git reflog`의 출력에서 원하는 항목의 해시 또는 `HEAD@{n}` 참조를 사용하여 `git reset` 또는 `git checkout` 명령을 실행해 해당 상태로 되돌릴 수 있습니다.
 
    ```
    git reset --hard HEAD@{n}
